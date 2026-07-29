@@ -96,9 +96,9 @@ text-decoration: none;
 /* Customizando o texto que fica em cima do vídeo */
 .titulo-video {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Define a fonte moderna */
-    font-size: 20px;            /* Define o tamanho da letra */
+    font-size: 25px;            /* Define o tamanho da letra */
     font-weight: bold;          /* Deixa o texto em negrito */
-    color: #333333;             /* Cor do texto (grafite escuro) */
+    color: #f0eaea;             /* Cor do texto (grafite escuro) */
     text-align: center;         /* Centraliza o texto na tela */
     margin-bottom: 15px;        /* Cria um espaço entre o texto e o vídeo */
 }
