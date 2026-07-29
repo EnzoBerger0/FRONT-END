@@ -93,6 +93,12 @@ padding: 12px 0;
 color: #ffffff;
 text-decoration: none;
 }
+.main-container{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
 /* Customizando o texto que fica em cima do vídeo */
 .titulo-video {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Define a fonte moderna */
