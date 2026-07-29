@@ -102,3 +102,7 @@ text-decoration: none;
     text-align: center;         /* Centraliza o texto na tela */
     margin-bottom: 15px;        /* Cria um espaço entre o texto e o vídeo */
 }
+.container-video {
+text-align: center;
+
+}
