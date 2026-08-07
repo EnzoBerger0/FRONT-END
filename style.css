@@ -50,13 +50,13 @@ text-align: center;
 .estudante-nome{
 text-align: center;
 }
-.estudante-imagem{
-width: 120px;
-object-fit: contain;
+.estudante-imagem { width: 120px; height: 120px; object-fit: contain;
 }
-.estudante-icone{
-width: 38px;
-padding: 4px 8px;
+.estudante-icone {
+  width: 24px;
+  height: 24;            
+  display: block;          
+  margin: 8px auto 0 auto;
 }
 .estudante{
 background-image: background-color(#faae43);
