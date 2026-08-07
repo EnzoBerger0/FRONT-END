@@ -46,6 +46,11 @@ justify-content: center;
 padding: 50px;
 text-align: center;
 
+.meu-paragrafo {
+  max-width: 50;
+  word-wrap: : break-word;
+}
+
 }
 .estudante-nome{
 text-align: center;
