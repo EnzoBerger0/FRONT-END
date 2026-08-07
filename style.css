@@ -52,12 +52,7 @@ text-align: center;
 }
 .estudante-imagem { width: 90px; height: 90px; object-fit: contain;
 }
-.estudante-icone {
-  width: 24px;
-  height: 24;            
-  display: block;          
-  margin: 8px auto 0 auto;
-}
+
 .estudante{
 background-image: background-color(#faae43);
 padding: 24px 0;
